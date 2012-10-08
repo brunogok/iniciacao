@@ -1,0 +1,92 @@
+	Levantamento de informações para o preenchimento do Banco de Dados do Repositório de Conhecimento
+
+Implementação do Nível F do MR-MPS com Práticas Ágeis do Scrum em uma Fábrica de Software
+
+nome da empresa: Rightway Consultoria & sistemas
+
+
+rua do Rosário nº 103 12º andar , Rio de Janeiro Brasil.
+
+
+filial: Rio de Janeiro
+
+repartição: Fabrica de Software
+
+metodo agil: scrum
+
+modelo: MPS.BR
+
+nivel: F
+
+implementa em quatro linhas diferentes de serviços -> sistemas sob medida, infraestrutura, bussness intelligence (BI) e alocação de pessoal.
+
+Objetivo da implementação -> assegurar aos clientes a prestação de serviços com alto nivel de qualidade.
+
+
+Ferramentas:  ferramentas TABA,
+
+Redmine(2011)-> planejamento e  controle das atividades do projeto(apenas um plugin)(monitoração dp projeto)
+
+template MS-Word -> contendo todas as atividades do processo padrao.(template no plano de projeto e template do cronograma)
+
+MS-Word->para avaliar os requisitos
+
+Enterprise architect -> para analise e projeto dos casos de uso e para a elaboração e manuntenção da rastreabilidade entre os componetes do projeto.
+  	
+Redmine -> controle dos pedidos de alteração dos requisitos. 
+
+SVN-> versionamento e controle de configuração dos documentos e código fonte.
+
+templates no Excel -> para as não conformidades (tanto do escopo do projeto quanto as do escopo organizacional).
+
+Planilha no Excel -> Para a excecução das atividades do processo.
+
+Business Intelligence Pentaho -> ferramenta para a medição e analise.
+
+Estabelecimento do processo: no começo foi utilizada a ferramenta TABA, depois ela não foi mais utilizada
+
+
+a empresa fez capacitação scrum master.
+
+foi estabelecido um processo padrão porem não foi dito o nome e ele foi estabelecido em todos os demais projetos da empresa
+
+processo padrão: 
+
+	planejamento do sprint -> analise e projeto do software -> construção e teste do produto -> homologação -> implantação
+
+
+modelo lições aprendidas ->lições processos -> desafios encontados na implementação do nivel F:
+
+Gerencia de Projetos:manter a agilidade do processo 
+
+Gerencia de Requisitos -> nehum desafio foi encontrado com relação a este processo.
+
+Gerencia de Configuração ->principal desafio foi decidir em qual momento gerar as baselines de planejamento.(optou-se por gerar uma base line ao final de cada sprint)
+
+Garantia da Qualidade -> Duração das avaliações , tanto no escopo dos projetos(onde o tempo é mais criticio) como no escopo organizacional.
+
+Gerencia de Portfolio de Projetos -> Elaborar os critérios e a pontuação necessária para selecionar e priorizar os projetos para para o portfolio de projeto.
+
+Medição -> automatização da coleta das metricas, agilizando a elaboração do relatorio de medição e viabilizando reuniões mensais para apresentar suas analises  para os coordenadores dos projetos utilizarem estas metricas na gerencia de projetos.
+
+
+Principal lição aprendida -> sem o apoio ferramental adequado , a agilidade encontrada em metodologias ageis como o scrum pode ser prejudicada ao se implementar melhorias de proceso aderentes a modelos de qualidade como o MPS.BR.
+
+
+	Implementação nivel G em uma empresa de Software Livre.
+
+Nome da Empresa: Prognus Soluções Livres em Tecnologia da Informação Ltda;
+
+Endereço: Av. Tancredo Neves, 6731 - Parque Tecnológico Itaipu - Foz do Iguaçu - PR – Brasil;
+
+Filial: Foz do Iguaçu -PR
+Repartição: não possui
+Método Ágil:
+Modelo: MPS.BR
+Nivel: G 
+
+
+
+
+
+

@@ -85,6 +85,34 @@ Método Ágil:
 Modelo: MPS.BR
 Nivel: G 
 
+*Não consegui encontrar no artigo nenhum uso de metodos Ágeis na empresa Prognus.
+
+Implementação Nivel A em uma fabrica  Software.
+
+Nome da Empresa: Stefanini IT solutions 
+
+Endereço: Jaguariuna São Paulo Brasil;
+
+Repartição:
+
+
+* A empresa Stefanini usa para a implementação o projeto Six Sima e Modelos de Desempenho de Processos e Análise de causa de Problemas.
+
+*Não consegui identificar nenhum uso de modelo de processo Ágil no desenvolvimento de produtos na empresa Estefanini.
+
+Implementando maturidade e agilidade em uma fabrica de software através de Scrumm e MPS.BR nivel G
+
+Nome da Empresa: Criativa Tecnologia;
+
+Filial: Gurupi Tocantins;
+
+Endereço: Gurupi - TO - Brasil
+
+Metodo Ágil: SCRUM
+
+Modelo: MPS.BR
+apenas consegui obter esses dados, pois  o artigo fala mais sobre a junção ou adequação do scrum aos processos de implementação do nivel
+G do MPS.BR.E não especificamente de lições aprendidas que a empresa Criativa tirou da implementação. 
 
 
 
